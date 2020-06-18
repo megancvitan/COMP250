@@ -1,5 +1,5 @@
 # COMP250-Intro-to-CS
-This repository contains my assignments and final project for COMP250: Introduction to Computer Science. The primary language used in this course is Java.
+This repository contains my assignments and final project for COMP250: Introduction to Computer Science. The primary language used in this course is Java. The topics covered include: mathematical tools (binary numbers, induction, recurrence relations, asymptotic complexity, establishing correctness of programs), data structures (arrays, stacks, queues, linked lists, trees, binary trees, binary search trees, heaps, hash tables), recursive and non-recursive algorithms (searching and sorting, tree and graph traversal), abstract data types and inheritance. 
 
 ----- **ABOUT FILES** -----
 
