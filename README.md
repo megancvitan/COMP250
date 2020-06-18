@@ -1,5 +1,5 @@
-# COMP250
-This repository contains my assignments and final project for COMP250: Introduction to Computer Science.
+# COMP250-Intro-to-CS
+This repository contains my assignments and final project for COMP250: Introduction to Computer Science. The primary language used in this course is Java.
 
 ----- **ABOUT FILES** -----
 
